@@ -3,7 +3,7 @@
 	box-sizing: border-box;
 }
 	
-.menu{
+section{
 	
 	background-color:#7c7c7c;
 
@@ -28,6 +28,8 @@ a{
 	
 }
 
+
+
 .navbar-collapse{
 	background-color:#ffffff;
 	margin:0px;
@@ -37,6 +39,3 @@ a{
 	
 }
 
-section{
-	background-color:#7c7c7c
-}
